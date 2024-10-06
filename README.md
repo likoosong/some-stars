@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -17,7 +18,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [HTML](#html)
-*   [PHP](#php)
 *   [PowerShell](#powershell)
 *   [Rust](#rust)
 *   [C++](#c)
@@ -35,6 +35,18 @@
 *   [Visual Basic 6.0](#visual-basic-60)
 *   [SCSS](#scss)
 *   [Meson](#meson)
+
+## PHP
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [codehub666/94list](https://github.com/codehub666/94list) - 百度网盘分享链接分析渲染列表辅助下载开源程序
+
+*   [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
+
+*   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
 
 ## Python
 
@@ -190,8 +202,6 @@
 
 *   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 
-*   [jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc) - 远程调用(rpc)浏览器方法，免去抠代码补环境
-
 ## Kotlin
 
 *   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
@@ -324,19 +334,9 @@
 
 *   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 
-## PHP
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [codehub666/94list](https://github.com/codehub666/94list) - 百度网盘分享链接分析渲染列表辅助下载开源程序
-
-*   [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-
-*   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
-
 ## PowerShell
 
-*   [YukiIsait/7ZipBuilder](https://github.com/YukiIsait/7ZipBuilder) - An automatic compilation script for 7-Zip, which replaces the default file association icons and file manager skins with more attractive ones, and adds associations for Jar and War files.
+*   [YukiIsait/7ZipBuilder](https://github.com/YukiIsait/7ZipBuilder) - An automatic compilation script for 7-Zip, which replaces the default file association icons and file manager skins with more attractive ones, and adds associations for Jar and War files. 一个 7-Zip 的自动编译脚本，替换了文件关联图标和文件管理器图标，并关联了 Jar 和 War 文件。
 
 ## Rust
 
