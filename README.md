@@ -9,8 +9,10 @@
 ## Table of Contents
 
 *   [Dart](#dart)
+*   [C#](#c)
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -19,13 +21,11 @@
 *   [PHP](#php)
 *   [Vue](#vue)
 *   [CSS](#css)
-*   [HTML](#html)
 *   [PowerShell](#powershell)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Markdown](#markdown)
-*   [C#](#c-2)
 *   [Svelte](#svelte)
 *   [Java](#java)
 *   [Objective-C](#objective-c)
@@ -33,9 +33,10 @@
 *   [Batchfile](#batchfile)
 *   [AngelScript](#angelscript)
 *   [Visual Basic 6.0](#visual-basic-60)
-*   [SCSS](#scss)
 
 ## Dart
+
+*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
 *   [acking-you/jkapp-flutter](https://github.com/acking-you/jkapp-flutter) - flutter--demo 实现驾考软件
 
@@ -53,6 +54,26 @@
 
 *   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 
+## C\#
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+
+*   [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+
+## HTML
+
+*   [foss-android/IP](https://github.com/foss-android/IP) - IP查询网站
+
+*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
+
+*   [duolabmeng6/ollama\_ui](https://github.com/duolabmeng6/ollama_ui) - This is a simple ollama admin panel that implements a list of models to download models and a dialog function.
+
+*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
+
+*   [freedom-wy/js-reverse](https://github.com/freedom-wy/js-reverse) - JS逆向研究
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
 ## miscellaneous
 
 *   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
@@ -63,7 +84,7 @@
 
 *   [CatPawApp/CatPawOpen](https://github.com/CatPawApp/CatPawOpen) - Continue the development of CatVodOpen.
 
-*   [DigitalPlatDev/US.KG](https://github.com/DigitalPlatDev/US.KG) - US.KG Free Domain For Everyone
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - US.KG Free Domain For Everyone
 
 *   [komavideo/KomaDiscord](https://github.com/komavideo/KomaDiscord) - 小马部落Discord专区
 
@@ -165,8 +186,6 @@
 
 *   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-
 ## Shell
 
 *   [yuju520/Shadowsocks-Auto](https://github.com/yuju520/Shadowsocks-Auto) -
@@ -190,8 +209,6 @@
 *   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
 
 *   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-
-*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
 
 ## Python
 
@@ -351,18 +368,6 @@
 
 *   [typora/theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
 
-## HTML
-
-*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-
-*   [duolabmeng6/ollama\_ui](https://github.com/duolabmeng6/ollama_ui) - This is a simple ollama admin panel that implements a list of models to download models and a dialog function.
-
-*   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
-
-*   [freedom-wy/js-reverse](https://github.com/freedom-wy/js-reverse) - JS逆向研究
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
 ## PowerShell
 
 *   [YukiIsait/7ZipBuilder](https://github.com/YukiIsait/7ZipBuilder) - An automatic compilation script for 7-Zip, which replaces the default file association icons and file manager skins with more attractive ones, and adds associations for Jar and War files. 一个 7-Zip 的自动编译脚本，替换了文件关联图标和文件管理器图标，并关联了 Jar 和 War 文件。
@@ -439,10 +444,6 @@
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
-## C\#
-
-*   [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
-
 ## Svelte
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -482,7 +483,3 @@
 ## Visual Basic 6.0
 
 *   [cdhigh/Vb6Tkinter](https://github.com/cdhigh/Vb6Tkinter) - An add-in for VB6 designed for Tkinter (直接使用VB6设计Tkinter GUI界面)
-
-## SCSS
-
-*   [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
