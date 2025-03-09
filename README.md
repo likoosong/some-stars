@@ -8,14 +8,14 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
+*   [Java](#java)
 *   [C](#c)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [Java](#java)
 *   [Dart](#dart)
 *   [Go](#go)
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Shell](#shell)
@@ -36,77 +36,39 @@
 *   [SCSS](#scss)
 *   [Meson](#meson)
 
-## JavaScript
+## Java
 
 *   [TOM88812/xiaozhi-esp32-server](https://github.com/TOM88812/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
-*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
 
-*   [kesixin/QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 答题小程序，刷题小程序，微信小程序，考试小程序。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试活动，企业内部考核，内部培训等职业考试刷题。
+*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
 
-*   [leo9960/wechat-app-unpack](https://github.com/leo9960/wechat-app-unpack) - 微信小程序(.wxapkg)解包心得以及未开放API猜测
+*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
 
-*   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) -
+*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
 
-*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.
+*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
 
-*   [Nuitka-Commander/nuitka-commander.github.io](https://github.com/Nuitka-Commander/nuitka-commander.github.io) - A tool to help you generate Nuitka commands
+*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
 
-*   [hjdhnx/drpy-node](https://github.com/hjdhnx/drpy-node) - nodejs作为服务端的drpy实现。全面升级异步写法。配合drplayer实现全平台浏览器观影
+*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
 
-*   [lestmc/CursorPro](https://github.com/lestmc/CursorPro) -
+*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
 
-*   [KwokKwok/Silo](https://github.com/KwokKwok/Silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 
-*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
 
-*   [CatPawApp/CatPawOpen](https://github.com/CatPawApp/CatPawOpen) - Continue the development of CatVodOpen.
+*   [FongMi/TV](https://github.com/FongMi/TV) -
 
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+*   [CatVodTVOfficial/CatVodTVJarLoader](https://github.com/CatVodTVOfficial/CatVodTVJarLoader) - Custom jar loader.
 
-*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-
-*   [caozongpeng/video-monitor-api](https://github.com/caozongpeng/video-monitor-api) - 基于海康视频监控二次开发基于B/S架构
-
-*   [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
-
-*   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-
-*   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-
-*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-
-*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-
-*   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
-
-*   [luzhisheng/js\_reverse](https://github.com/luzhisheng/js_reverse) - 主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
-
-*   [downdawn/JSreverse](https://github.com/downdawn/JSreverse) - js逆向和爬虫
-
-*   [qtgolang/SunnyNetTools](https://github.com/qtgolang/SunnyNetTools) - SunnyNet网络中间件抓包工具
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [lixi5338619/lxBook](https://github.com/lixi5338619/lxBook) - 《爬虫逆向进阶实战》书籍代码库
-
-*   [ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse) - 《安卓逆向这档事》
+*   [CatVodTVOfficial/CatVodTVSpider](https://github.com/CatVodTVOfficial/CatVodTVSpider) -
 
 ## C
 
@@ -212,11 +174,13 @@
 
 *   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
 
+*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
 *   [JJBJJ/PyramidStore](https://github.com/JJBJJ/PyramidStore) -
 
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.46.3]（Reset Cursor AI MachineID & Auto Sign Up / In）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.46.9]（Reset Cursor AI MachineID & Auto Sign Up / In）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 *   [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 
@@ -230,7 +194,7 @@
 
 *   [GeekyWizKid/video\_processing\_service](https://github.com/GeekyWizKid/video_processing_service) - Video Processing Service is an automated video processing service that supports extracting audio from videos, generating subtitles, and embedding subtitles into the video.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI, and more.
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
 
 *   [lm317379829/PyramidStore](https://github.com/lm317379829/PyramidStore) -
 
@@ -307,38 +271,6 @@
 *   [spyder-ide/qtawesome](https://github.com/spyder-ide/qtawesome) - Iconic fonts in PyQt and PySide applications
 
 *   [FeiNiao/hkvs-ivms-fileupload-poc](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc) - 海康威视文件上传检测脚本，可getshell，漏洞检测
-
-## Java
-
-*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
-
-*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
-
-*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
-
-*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
-
-*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-
-*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
-
-*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
-
-*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
-
-*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
-
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-
-*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
-
-*   [FongMi/TV](https://github.com/FongMi/TV) -
-
-*   [CatVodTVOfficial/CatVodTVJarLoader](https://github.com/CatVodTVOfficial/CatVodTVJarLoader) - Custom jar loader.
-
-*   [CatVodTVOfficial/CatVodTVSpider](https://github.com/CatVodTVOfficial/CatVodTVSpider) -
 
 ## Dart
 
@@ -426,11 +358,79 @@
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 
 *   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 
 *   [jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc) - 远程调用(rpc)浏览器方法，免去抠代码补环境
+
+## JavaScript
+
+*   [kesixin/QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 答题小程序，刷题小程序，微信小程序，考试小程序。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试活动，企业内部考核，内部培训等职业考试刷题。
+
+*   [leo9960/wechat-app-unpack](https://github.com/leo9960/wechat-app-unpack) - 微信小程序(.wxapkg)解包心得以及未开放API猜测
+
+*   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) -
+
+*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.
+
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+*   [Nuitka-Commander/nuitka-commander.github.io](https://github.com/Nuitka-Commander/nuitka-commander.github.io) - A tool to help you generate Nuitka commands
+
+*   [hjdhnx/drpy-node](https://github.com/hjdhnx/drpy-node) - nodejs作为服务端的drpy实现。全面升级异步写法。配合drplayer实现全平台浏览器观影
+
+*   [lestmc/CursorPro](https://github.com/lestmc/CursorPro) -
+
+*   [KwokKwok/Silo](https://github.com/KwokKwok/Silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
+
+*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+
+*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
+
+*   [caozongpeng/video-monitor-api](https://github.com/caozongpeng/video-monitor-api) - 基于海康视频监控二次开发基于B/S架构
+
+*   [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
+
+*   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+*   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+
+*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+
+*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+
+*   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
+
+*   [luzhisheng/js\_reverse](https://github.com/luzhisheng/js_reverse) - 主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
+
+*   [downdawn/JSreverse](https://github.com/downdawn/JSreverse) - js逆向和爬虫
+
+*   [qtgolang/SunnyNetTools](https://github.com/qtgolang/SunnyNetTools) - SunnyNet网络中间件抓包工具
+
+*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [lixi5338619/lxBook](https://github.com/lixi5338619/lxBook) - 《爬虫逆向进阶实战》书籍代码库
+
+*   [ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse) - 《安卓逆向这档事》
+
+*   [catvod/CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
 
 ## miscellaneous
 
