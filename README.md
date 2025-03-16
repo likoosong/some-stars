@@ -8,14 +8,14 @@
 
 ## Table of Contents
 
-*   [Java](#java)
+*   [JavaScript](#javascript)
+*   [Python](#python)
 *   [C](#c)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
-*   [Python](#python)
+*   [Java](#java)
 *   [Dart](#dart)
 *   [Go](#go)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Shell](#shell)
@@ -36,43 +36,181 @@
 *   [SCSS](#scss)
 *   [Meson](#meson)
 
-## Java
+## JavaScript
+
+*   [QingJ01/123pan\_unlock](https://github.com/QingJ01/123pan_unlock) - 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能
+
+*   [kesixin/QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 答题小程序，刷题小程序，微信小程序，考试小程序。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试活动，企业内部考核，内部培训等职业考试刷题。
+
+*   [leo9960/wechat-app-unpack](https://github.com/leo9960/wechat-app-unpack) - 微信小程序(.wxapkg)解包心得以及未开放API猜测
+
+*   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) -
+
+*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.
+
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+*   [Nuitka-Commander/nuitka-commander.github.io](https://github.com/Nuitka-Commander/nuitka-commander.github.io) - A tool to help you generate Nuitka commands
+
+*   [hjdhnx/drpy-node](https://github.com/hjdhnx/drpy-node) - nodejs作为服务端的drpy实现。全面升级异步写法。配合drplayer实现全平台浏览器观影
+
+*   [lestmc/CursorPro](https://github.com/lestmc/CursorPro) -
+
+*   [KwokKwok/Silo](https://github.com/KwokKwok/Silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
+
+*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+
+*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
+
+*   [caozongpeng/video-monitor-api](https://github.com/caozongpeng/video-monitor-api) - 基于海康视频监控二次开发基于B/S架构
+
+*   [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
+
+*   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+*   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+
+*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+
+*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+
+*   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
+
+*   [luzhisheng/js\_reverse](https://github.com/luzhisheng/js_reverse) - 主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
+
+*   [downdawn/JSreverse](https://github.com/downdawn/JSreverse) - js逆向和爬虫
+
+*   [qtgolang/SunnyNetTools](https://github.com/qtgolang/SunnyNetTools) - SunnyNet网络中间件抓包工具
+
+*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [lixi5338619/lxBook](https://github.com/lixi5338619/lxBook) - 《爬虫逆向进阶实战》书籍代码库
+
+*   [ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse) - 《安卓逆向这档事》
+
+*   [catvod/CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
+
+## Python
 
 *   [TOM88812/xiaozhi-esp32-server](https://github.com/TOM88812/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
-*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
+*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
 
-*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
+*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
-*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
-*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.47.3]（Reset Cursor AI MachineID & Auto Sign Up / In）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+*   [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 
-*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
+*   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 
-*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
+*   [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 
-*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
+*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
-*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
+*   [ultrasev/cursor-reset](https://github.com/ultrasev/cursor-reset) - A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+*   [GeekyWizKid/video\_processing\_service](https://github.com/GeekyWizKid/video_processing_service) - Video Processing Service is an automated video processing service that supports extracting audio from videos, generating subtitles, and embedding subtitles into the video.
 
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
 
-*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
+*   [lm317379829/PyramidStore](https://github.com/lm317379829/PyramidStore) -
 
-*   [FongMi/TV](https://github.com/FongMi/TV) -
+*   [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant!
 
-*   [CatVodTVOfficial/CatVodTVJarLoader](https://github.com/CatVodTVOfficial/CatVodTVJarLoader) - Custom jar loader.
+*   [Tokeii0/LovelyAIMaster](https://github.com/Tokeii0/LovelyAIMaster) - 可以在windows任何地方调用AI进行输入
 
-*   [CatVodTVOfficial/CatVodTVSpider](https://github.com/CatVodTVOfficial/CatVodTVSpider) -
+*   [jark006/FtpServer](https://github.com/jark006/FtpServer) - 一键开启FTP文件服务器，方便其他设备通过网络传输、管理文件，支持IPv4，IPv6。
+
+*   [yym68686/uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
+
+*   [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
+
+*   [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
+
+*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+
+*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
+
+*   [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
+
+*   [WhaleFell/CameraHack](https://github.com/WhaleFell/CameraHack) - 批量扫描破解海康威视、大华等摄像头的常见漏洞。
+
+*   [pubg-tools/pubg-bot](https://github.com/pubg-tools/pubg-bot) - PUBG挂通行证工具-经验版
+
+*   [pubg-tools/pubg-bp](https://github.com/pubg-tools/pubg-bp) - PUBG挂通行证工具-BP版本
+
+*   [Vis-Wing/Binoculars](https://github.com/Vis-Wing/Binoculars) - Binoculars is an IDA PRO plugin with an integrated AI interface
+
+*   [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
+
+*   [52beijixing/smartedu-download](https://github.com/52beijixing/smartedu-download) - 国家中小学智慧教育平台
+
+*   [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - AI workflows generated with natural language
+
+*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
+
+*   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器
+
+*   [kingmo888/rustdesk-api-server](https://github.com/kingmo888/rustdesk-api-server) - 基于Django的RustDesk Api\&Web Server，除了支持api所有功能，还支持web注册、管理、展示等。已支持到最新1.3.1版本。
+
+*   [ChatTeach/FreeGPT-4](https://github.com/ChatTeach/FreeGPT-4) - GPT-4 with a Chat Web UI. No API key required.
+
+*   [sqlsec/termux-install-linux](https://github.com/sqlsec/termux-install-linux) - Termux一键安装Linux脚本
+
+*   [Leeon123/CC-attack](https://github.com/Leeon123/CC-attack) - Using Socks4/5 or http proxies to make a multithreading Http-flood/Https-flood (cc) attack.
+
+*   [UndCover/PyramidStore](https://github.com/UndCover/PyramidStore) -
+
+*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+
+*   [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
+
+*   [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - 一个基于 HttpRunner + Django + Vue + Element UI 的接口自动化测试平台，生产可用。
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+
+*   [sec-an/TV\_Spider](https://github.com/sec-an/TV_Spider) - TVBoxOSC 服务端爬虫 Custom Server Spider for Tv Written in Python3
+
+*   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
+
+*   [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
+
+*   [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more
+
+*   [MgArcher/Text\_select\_captcha](https://github.com/MgArcher/Text_select_captcha) - 实现文字点选、选字、选择、点触验证码识别，基于pytorch训练
+
+*   [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
+
+*   [spyder-ide/qtawesome](https://github.com/spyder-ide/qtawesome) - Iconic fonts in PyQt and PySide applications
+
+*   [FeiNiao/hkvs-ivms-fileupload-poc](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc) - 海康威视文件上传检测脚本，可getshell，漏洞检测
 
 ## C
 
-*   [TOM88812/xiaozhi-android-client](https://github.com/TOM88812/xiaozhi-android-client) - 一个基于xiaozhi-server的Android语音对话应用,支持实时语音交互和文字对话。欢迎👏👏👏starred，和PR，这样才有动力继续输出。
+*   [TOM88812/xiaozhi-android-client](https://github.com/TOM88812/xiaozhi-android-client) - 一个基于xiaozhi-server的Android语音对话应用,支持实时语音交互和文字对话。欢迎👏👏👏starred，和PR，这样才有动力继续输出。目前只是伪修复回音，如果有大神PR，欢迎指教。
 
 *   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
 
@@ -170,107 +308,37 @@
 
 *   [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - A Vue3.x UI components lib for TDesign.
 
-## Python
+## Java
 
-*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
+*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
 
-*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
 
-*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
 
-*   [JJBJJ/PyramidStore](https://github.com/JJBJJ/PyramidStore) -
+*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
 
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.46.9]（Reset Cursor AI MachineID & Auto Sign Up / In）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 
-*   [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
+*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
 
-*   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
+*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
 
-*   [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
 
-*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
+*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
 
-*   [ultrasev/cursor-reset](https://github.com/ultrasev/cursor-reset) - A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [GeekyWizKid/video\_processing\_service](https://github.com/GeekyWizKid/video_processing_service) - Video Processing Service is an automated video processing service that supports extracting audio from videos, generating subtitles, and embedding subtitles into the video.
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
 
-*   [lm317379829/PyramidStore](https://github.com/lm317379829/PyramidStore) -
+*   [FongMi/TV](https://github.com/FongMi/TV) -
 
-*   [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant!
+*   [CatVodTVOfficial/CatVodTVJarLoader](https://github.com/CatVodTVOfficial/CatVodTVJarLoader) - Custom jar loader.
 
-*   [Tokeii0/LovelyAIMaster](https://github.com/Tokeii0/LovelyAIMaster) - 可以在windows任何地方调用AI进行输入
-
-*   [jark006/FtpServer](https://github.com/jark006/FtpServer) - 一键开启FTP文件服务器，方便其他设备通过网络传输、管理文件，支持IPv4，IPv6。
-
-*   [yym68686/uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
-
-*   [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
-
-*   [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-
-*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-
-*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-
-*   [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
-
-*   [WhaleFell/CameraHack](https://github.com/WhaleFell/CameraHack) - 批量扫描破解海康威视、大华等摄像头的常见漏洞。
-
-*   [pubg-tools/pubg-bot](https://github.com/pubg-tools/pubg-bot) - PUBG挂通行证工具-经验版
-
-*   [pubg-tools/pubg-bp](https://github.com/pubg-tools/pubg-bp) - PUBG挂通行证工具-BP版本
-
-*   [Vis-Wing/Binoculars](https://github.com/Vis-Wing/Binoculars) - Binoculars is an IDA PRO plugin with an integrated AI interface
-
-*   [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - PyInstaller Extractor
-
-*   [52beijixing/smartedu-download](https://github.com/52beijixing/smartedu-download) - 国家中小学智慧教育平台
-
-*   [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
-
-*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
-
-*   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器
-
-*   [kingmo888/rustdesk-api-server](https://github.com/kingmo888/rustdesk-api-server) - 基于Django的RustDesk Api\&Web Server，除了支持api所有功能，还支持web注册、管理、展示等。已支持到最新1.3.1版本。
-
-*   [ChatTeach/FreeGPT-4](https://github.com/ChatTeach/FreeGPT-4) - GPT-4 with a Chat Web UI. No API key required.
-
-*   [sqlsec/termux-install-linux](https://github.com/sqlsec/termux-install-linux) - Termux一键安装Linux脚本
-
-*   [Leeon123/CC-attack](https://github.com/Leeon123/CC-attack) - Using Socks4/5 or http proxies to make a multithreading Http-flood/Https-flood (cc) attack.
-
-*   [UndCover/PyramidStore](https://github.com/UndCover/PyramidStore) -
-
-*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-
-*   [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
-
-*   [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - 一个基于 HttpRunner + Django + Vue + Element UI 的接口自动化测试平台，生产可用。
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-
-*   [sec-an/TV\_Spider](https://github.com/sec-an/TV_Spider) - TVBoxOSC 服务端爬虫 Custom Server Spider for Tv Written in Python3
-
-*   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-*   [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
-
-*   [HFrost0/bilix](https://github.com/HFrost0/bilix) - ⚡️Lightning-fast async download tool for bilibili and more
-
-*   [MgArcher/Text\_select\_captcha](https://github.com/MgArcher/Text_select_captcha) - 实现文字点选、选字、选择、点触验证码识别，基于pytorch训练
-
-*   [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
-
-*   [spyder-ide/qtawesome](https://github.com/spyder-ide/qtawesome) - Iconic fonts in PyQt and PySide applications
-
-*   [FeiNiao/hkvs-ivms-fileupload-poc](https://github.com/FeiNiao/hkvs-ivms-fileupload-poc) - 海康威视文件上传检测脚本，可getshell，漏洞检测
+*   [CatVodTVOfficial/CatVodTVSpider](https://github.com/CatVodTVOfficial/CatVodTVSpider) -
 
 ## Dart
 
@@ -336,13 +404,13 @@
 
 *   [linux-do/new-api](https://github.com/linux-do/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 
 *   [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 
-*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [linux-do/tiktoken-go](https://github.com/linux-do/tiktoken-go) - go version of tiktoken
 
@@ -363,74 +431,6 @@
 *   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 
 *   [jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc) - 远程调用(rpc)浏览器方法，免去抠代码补环境
-
-## JavaScript
-
-*   [kesixin/QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 答题小程序，刷题小程序，微信小程序，考试小程序。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试活动，企业内部考核，内部培训等职业考试刷题。
-
-*   [leo9960/wechat-app-unpack](https://github.com/leo9960/wechat-app-unpack) - 微信小程序(.wxapkg)解包心得以及未开放API猜测
-
-*   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) -
-
-*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.
-
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [Nuitka-Commander/nuitka-commander.github.io](https://github.com/Nuitka-Commander/nuitka-commander.github.io) - A tool to help you generate Nuitka commands
-
-*   [hjdhnx/drpy-node](https://github.com/hjdhnx/drpy-node) - nodejs作为服务端的drpy实现。全面升级异步写法。配合drplayer实现全平台浏览器观影
-
-*   [lestmc/CursorPro](https://github.com/lestmc/CursorPro) -
-
-*   [KwokKwok/Silo](https://github.com/KwokKwok/Silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
-
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-
-*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-
-*   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-
-*   [caozongpeng/video-monitor-api](https://github.com/caozongpeng/video-monitor-api) - 基于海康视频监控二次开发基于B/S架构
-
-*   [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
-
-*   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-
-*   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-
-*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-
-*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-
-*   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
-
-*   [luzhisheng/js\_reverse](https://github.com/luzhisheng/js_reverse) - 主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
-
-*   [downdawn/JSreverse](https://github.com/downdawn/JSreverse) - js逆向和爬虫
-
-*   [qtgolang/SunnyNetTools](https://github.com/qtgolang/SunnyNetTools) - SunnyNet网络中间件抓包工具
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [lixi5338619/lxBook](https://github.com/lixi5338619/lxBook) - 《爬虫逆向进阶实战》书籍代码库
-
-*   [ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse) - 《安卓逆向这档事》
-
-*   [catvod/CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
 
 ## miscellaneous
 
