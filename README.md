@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [C](#c)
 *   [Java](#java)
-*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [Rust](#rust)
@@ -36,59 +36,9 @@
 *   [SCSS](#scss)
 *   [Meson](#meson)
 
-## C
-
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (Pomodoro Clock).\[一款非常好用的计时器(🍅番茄时钟)]
-
-*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
-
-*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-
-*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
-
-*   [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
-
-*   [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-
-*   [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
-
-## Java
-
-*   [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
-
-*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
-
-*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
-
-*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
-
-*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
-
-*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-
-*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
-
-*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
-
-*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
-
-*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
-
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-
-*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
-
-*   [FongMi/TV](https://github.com/FongMi/TV) -
-
 ## JavaScript
+
+*   [platformio/platformio-vscode-ide](https://github.com/platformio/platformio-vscode-ide) - PlatformIO IDE for VSCode: The next generation integrated development environment for IoT
 
 *   [QingJ01/123pan\_unlock](https://github.com/QingJ01/123pan_unlock) - 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能
 
@@ -157,6 +107,58 @@
 *   [ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse) - 《安卓逆向这档事》
 
 *   [x0tools/CatWebRPC](https://github.com/x0tools/CatWebRPC) -
+
+## C
+
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (Pomodoro Clock).\[一款非常好用的计时器(🍅番茄时钟)]
+
+*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
+
+*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
+
+*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
+
+*   [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
+
+*   [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+
+*   [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
+
+## Java
+
+*   [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
+
+*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
+
+*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
+
+*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
+
+*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
+
+*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+
+*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
+
+*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
+
+*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
+
+*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
+
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+
+*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
+
+*   [FongMi/TV](https://github.com/FongMi/TV) -
 
 ## Python
 
@@ -501,8 +503,6 @@
 *   [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) -
 
 *   [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
-
-*   [J0o1ey/BountyHunterInChina](https://github.com/J0o1ey/BountyHunterInChina) - 重生之我在安全行业讨口子系列，分享在安全行业讨口子过程中，SRC、项目实战的有趣案例
 
 ## Vue
 
