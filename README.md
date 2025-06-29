@@ -136,7 +136,7 @@
 
 ## Go
 
-*   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
+*   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
 
 *   [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 
