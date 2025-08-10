@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [C++](#c)
 *   [miscellaneous](#miscellaneous)
+*   [C++](#c)
 *   [Python](#python)
 *   [Java](#java)
 *   [Go](#go)
@@ -33,35 +33,10 @@
 *   [Batchfile](#batchfile)
 *   [AngelScript](#angelscript)
 *   [Visual Basic 6.0](#visual-basic-60)
-*   [SCSS](#scss)
-
-## C++
-
-*   [Limescmike/Limes\_SW](https://github.com/Limescmike/Limes_SW) - 点焊机程序
-
-*   [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) - This is a library for the Adafruit 1.8" SPI display http://www.adafruit.com/products/358  and http://www.adafruit.com/products/618
-
-*   [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-*   [Keftos/ESP32\_MIoT](https://github.com/Keftos/ESP32_MIoT) - esp32接入米家，控制LED，智能家居 改造
-
-*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
-
-*   [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
-
-*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-
-*   [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
-
-*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## miscellaneous
+
+*   [TKOT/HanChan-FCU](https://github.com/TKOT/HanChan-FCU) - 这个是自制的空客Airbus A320的FCU（飞行控制单元）
 
 *   [gameboygh/NC-16](https://github.com/gameboygh/NC-16) -
 
@@ -98,6 +73,8 @@
 *   [BeichenDream/Godzilla](https://github.com/BeichenDream/Godzilla) - 哥斯拉
 
 *   [tech-shrimp/docker\_installer](https://github.com/tech-shrimp/docker_installer) - Docker官方安装包，用来解决因国内网络无法安装使用Docker的问题
+
+*   [YuHuanTin/IDM\_Cracker](https://github.com/YuHuanTin/IDM_Cracker) -
 
 *   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 
@@ -136,6 +113,32 @@
 *   [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) -
 
 *   [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
+
+## C++
+
+*   [Limescmike/Limes\_SW](https://github.com/Limescmike/Limes_SW) - 点焊机程序
+
+*   [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) - This is a library for the Adafruit 1.8" SPI display http://www.adafruit.com/products/358  and http://www.adafruit.com/products/618
+
+*   [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+*   [Keftos/ESP32\_MIoT](https://github.com/Keftos/ESP32_MIoT) - esp32接入米家，控制LED，智能家居 改造
+
+*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
+
+*   [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
+
+*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+*   [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+
+*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## Python
 
@@ -299,7 +302,7 @@
 
 *   [linux-do/new-api](https://github.com/linux-do/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 
@@ -477,10 +480,6 @@
 
 *   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [lixi5338619/lxBook](https://github.com/lixi5338619/lxBook) - 《爬虫逆向进阶实战》书籍代码库
-
 ## Dart
 
 *   [TOM88812/xiaozhi-android-client](https://github.com/TOM88812/xiaozhi-android-client) - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用,支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
@@ -615,6 +614,8 @@
 
 *   [typora/theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
 
+*   [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
+
 ## Roff
 
 *   [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
@@ -682,7 +683,3 @@
 ## Visual Basic 6.0
 
 *   [cdhigh/Vb6Tkinter](https://github.com/cdhigh/Vb6Tkinter) - An add-in for VB6 designed for Tkinter (直接使用VB6设计Tkinter GUI界面)
-
-## SCSS
-
-*   [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
