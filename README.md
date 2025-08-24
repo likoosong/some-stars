@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
+*   [C](#c)
+*   [Java](#java)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Python](#python)
-*   [Java](#java)
 *   [Go](#go)
-*   [C](#c-1)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
@@ -34,6 +34,66 @@
 *   [AngelScript](#angelscript)
 *   [Visual Basic 6.0](#visual-basic-60)
 
+## C
+
+*   [Cai-Zi/STM32\_T12\_Controller](https://github.com/Cai-Zi/STM32_T12_Controller) - T12烙铁控制器
+
+*   [ILikeMoving/OLED-Clock](https://github.com/ILikeMoving/OLED-Clock) -  STM32F103，HAL库，模拟I2C驱动SSD1306控制芯片OLED 显示屏显示滚动数字时钟
+
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
+
+*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
+
+*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
+
+*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
+
+*   [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
+
+*   [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+
+## Java
+
+*   [tx-samsara/CreativeCore](https://github.com/tx-samsara/CreativeCore) -
+
+*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
+
+*   [yunyizhi/clion-platformio-plus](https://github.com/yunyizhi/clion-platformio-plus) - clion platformio 插件增强
+
+*   [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
+
+*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
+
+*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
+
+*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
+
+*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
+
+*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+
+*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
+
+*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
+
+*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
+
+*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
+
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+
+*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
+
+*   [FongMi/TV](https://github.com/FongMi/TV) -
+
 ## Rust
 
 *   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
@@ -45,8 +105,6 @@
 *   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 
 *   [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
@@ -133,8 +191,6 @@
 *   [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
 
 ## C++
-
-*   [Limescmike/Limes\_SW](https://github.com/Limescmike/Limes_SW) - 点焊机程序
 
 *   [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) - This is a library for the Adafruit 1.8" SPI display http://www.adafruit.com/products/358  and http://www.adafruit.com/products/618
 
@@ -254,47 +310,11 @@
 
 *   [MgArcher/Text\_select\_captcha](https://github.com/MgArcher/Text_select_captcha) - 实现文字点选、选字、选择、点触验证码识别，基于pytorch训练
 
-## Java
-
-*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
-
-*   [yunyizhi/clion-platformio-plus](https://github.com/yunyizhi/clion-platformio-plus) - clion platformio 插件增强
-
-*   [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
-
-*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
-
-*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
-
-*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
-
-*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
-
-*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-
-*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
-
-*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
-
-*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
-
-*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
-
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-
-*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
-
-*   [FongMi/TV](https://github.com/FongMi/TV) -
-
 ## Go
 
 *   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
 
 *   [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
-
-*   [Done-0/Jank](https://github.com/Done-0/Jank) - Jank，一个轻量级的博客系统，基于 Go 语言和 Echo 框架开发，强调极简、低耦合和高扩展。
 
 *   [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 
@@ -342,30 +362,6 @@
 
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-
-## C
-
-*   [ILikeMoving/OLED-Clock](https://github.com/ILikeMoving/OLED-Clock) -  STM32F103，HAL库，模拟I2C驱动SSD1306控制芯片OLED 显示屏显示滚动数字时钟
-
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
-
-*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
-
-*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
-
-*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
-
-*   [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
-
-*   [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-
 ## TypeScript
 
 *   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
@@ -375,6 +371,8 @@
 *   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 
 *   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
+
+*   [Done-0/Jank](https://github.com/Done-0/Jank) - 一个轻量级的博客系统，基于 Go 语言和 hertz 框架开发，支持多主题和多插件。
 
 *   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
@@ -459,6 +457,8 @@
 *   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 
 *   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
 
