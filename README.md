@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
-*   [Java](#java)
-*   [C](#c)
-*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
+*   [C](#c)
+*   [Java](#java)
+*   [Rust](#rust)
 *   [C++](#c-1)
 *   [Python](#python)
 *   [Go](#go)
@@ -34,87 +34,9 @@
 *   [AngelScript](#angelscript)
 *   [Visual Basic 6.0](#visual-basic-60)
 
-## Java
-
-*   [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) - Electronic Circuit Simulator in the Browser
-
-*   [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) - Electronic Circuit Simulator in the Browser
-
-*   [tx-samsara/CreativeCore](https://github.com/tx-samsara/CreativeCore) -
-
-*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
-
-*   [yunyizhi/clion-platformio-plus](https://github.com/yunyizhi/clion-platformio-plus) - clion platformio 插件增强
-
-*   [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
-
-*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
-
-*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
-
-*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
-
-*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
-
-*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-
-*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
-
-*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
-
-*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
-
-*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
-
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-
-*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
-
-*   [FongMi/TV](https://github.com/FongMi/TV) -
-
-## C
-
-*   [Cai-Zi/STM32\_T12\_Controller](https://github.com/Cai-Zi/STM32_T12_Controller) - T12烙铁控制器
-
-*   [ILikeMoving/OLED-Clock](https://github.com/ILikeMoving/OLED-Clock) -  STM32F103，HAL库，模拟I2C驱动SSD1306控制芯片OLED 显示屏显示滚动数字时钟
-
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
-
-*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
-
-*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
-
-*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
-
-*   [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
-
-*   [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-
-## Rust
-
-*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [dundunHa/sys-overseer](https://github.com/dundunHa/sys-overseer) -
-
-*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-
-*   [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
 ## miscellaneous
+
+*   [shmily103/spot-welder](https://github.com/shmily103/spot-welder) -
 
 *   [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol
 
@@ -195,6 +117,88 @@
 *   [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) -
 
 *   [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
+
+## C
+
+*   [sfrwmaker/F1-T12-858D](https://github.com/sfrwmaker/F1-T12-858D) - Soldering station for hakko t12 tips + 858D rework
+
+*   [Cai-Zi/STM32\_T12\_Controller](https://github.com/Cai-Zi/STM32_T12_Controller) - T12烙铁控制器
+
+*   [ILikeMoving/OLED-Clock](https://github.com/ILikeMoving/OLED-Clock) -  STM32F103，HAL库，模拟I2C驱动SSD1306控制芯片OLED 显示屏显示滚动数字时钟
+
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
+
+*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
+
+*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
+
+*   [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
+
+*   [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
+
+*   [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+
+## Java
+
+*   [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) - Electronic Circuit Simulator in the Browser
+
+*   [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) - Electronic Circuit Simulator in the Browser
+
+*   [tx-samsara/CreativeCore](https://github.com/tx-samsara/CreativeCore) -
+
+*   [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
+
+*   [yunyizhi/clion-platformio-plus](https://github.com/yunyizhi/clion-platformio-plus) - clion platformio 插件增强
+
+*   [androidx/media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
+
+*   [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
+
+*   [itbaima-study/SpringBoot-Vue-Template-Jwt](https://github.com/itbaima-study/SpringBoot-Vue-Template-Jwt) - SpringBoot 3 + Vue3 前后端分离项目模版，已实现登录注册，限流等功能，可直接上手编写业务
+
+*   [michalyao/springboot-turorial](https://github.com/michalyao/springboot-turorial) -
+
+*   [code-hunter/Answer](https://github.com/code-hunter/Answer) - 医学考试APP、模拟考试、随机抽题题、错题练习、题库导入
+
+*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+
+*   [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) - CatVodSpider一个TVBox的自定义源接口
+
+*   [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) - 自用TVBOX源
+
+*   [aka-zoe/starfish\_app](https://github.com/aka-zoe/starfish_app) -
+
+*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
+
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+
+*   [power721/alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search.
+
+*   [FongMi/TV](https://github.com/FongMi/TV) -
+
+## Rust
+
+*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [dundunHa/sys-overseer](https://github.com/dundunHa/sys-overseer) -
+
+*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+
+*   [rustdesk/rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo) - A working demo of RustDesk server implementation
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## C++
 
@@ -350,8 +354,6 @@
 
 *   [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
 *   [linux-do/tiktoken-go](https://github.com/linux-do/tiktoken-go) - go version of tiktoken
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
@@ -365,8 +367,6 @@
 *   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 
 ## TypeScript
 
@@ -480,6 +480,8 @@
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
 *   [jadehh/TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
@@ -555,8 +557,6 @@
 *   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 ## Shell
 
