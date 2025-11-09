@@ -44,8 +44,6 @@
 
 *   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
 
-*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
-
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
 *   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -60,7 +58,7 @@
 
 *   [ultrasev/cursor-reset](https://github.com/ultrasev/cursor-reset) - A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  MaxKB 是强大易用的开源企业级智能体平台。
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 
 *   [lm317379829/PyramidStore](https://github.com/lm317379829/PyramidStore) -
 
@@ -96,7 +94,7 @@
 
 *   [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - AI workflows generated with natural language
 
-*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.视频翻译/语音转录/字幕配音工具
+*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.
 
 *   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器
 
@@ -144,8 +142,6 @@
 
 *   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) -
 
-*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
-
 *   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 *   [Nuitka-Commander/nuitka-commander.github.io](https://github.com/Nuitka-Commander/nuitka-commander.github.io) - A tool to help you generate Nuitka commands
@@ -180,7 +176,7 @@
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
@@ -196,7 +192,7 @@
 
 ## Go
 
-*   [fzxx/FileImgSwap](https://github.com/fzxx/FileImgSwap) - FileImgSwap 文图变 是一款可以把文件与 PNG 图像进行互转的工具
+*   [fzxx/FileImgSwap](https://github.com/fzxx/FileImgSwap) - FileImgSwap 文图变 是一款可以把文件与 PNG 图像进行互转的工具 | FileImgSwap is a tool that enables mutual conversion between files and PNG images.
 
 *   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
 
@@ -265,6 +261,8 @@
 *   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
 
 *   [Done-0/Jank](https://github.com/Done-0/Jank) - 一个轻量级的博客系统，基于 Go 语言和 hertz 框架开发，支持多主题和多插件。
+
+*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
 
 *   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
@@ -549,6 +547,8 @@
 *   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 
 ## Vue
+
+*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
 *   [pzx521521/parap-tool](https://github.com/pzx521521/parap-tool) -
 
