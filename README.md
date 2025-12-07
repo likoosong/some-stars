@@ -8,6 +8,8 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
+*   [C++](#c)
 *   [Dart](#dart)
 *   [Shell](#shell)
 *   [CSS](#css)
@@ -16,12 +18,10 @@
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Go](#go)
-*   [C#](#c)
-*   [C](#c-1)
+*   [C#](#c-1)
+*   [C](#c-2)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
-*   [C++](#c-2)
-*   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [Roff](#roff)
 *   [HTML](#html)
@@ -35,6 +35,60 @@
 *   [Batchfile](#batchfile)
 *   [AngelScript](#angelscript)
 *   [Visual Basic 6.0](#visual-basic-60)
+
+## Vue
+
+*   [xmgcode88/simple-share](https://github.com/xmgcode88/simple-share) - 参考飞书编辑器的现代化风格知识管理平台，基于Spring Boot + Vue3构建，提供所见即所得的文本编辑体验，支持多租户SaaS架构、内容权限管控、复制权限控制、会员内容管理、AI教学等模块，具备完整的用户体系和响应式设计。
+
+*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+
+*   [pzx521521/parap-tool](https://github.com/pzx521521/parap-tool) -
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
+
+*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+
+*   [airene/vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - a vitepress theme for blog, demo ↓
+
+*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+
+*   [kingwrcy/discussion](https://github.com/kingwrcy/discussion) - 极简论坛
+
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+## C++
+
+*   [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
+
+*   [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) - This is a library for the Adafruit 1.8" SPI display http://www.adafruit.com/products/358  and http://www.adafruit.com/products/618
+
+*   [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+*   [Keftos/ESP32\_MIoT](https://github.com/Keftos/ESP32_MIoT) - esp32接入米家，控制LED，智能家居 改造
+
+*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
+
+*   [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
+
+*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+*   [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+
+*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## Dart
 
@@ -342,8 +396,6 @@
 
 *   [luzhisheng/js\_reverse](https://github.com/luzhisheng/js_reverse) - 主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
 
-*   [downdawn/JSreverse](https://github.com/downdawn/JSreverse) - js逆向和爬虫
-
 ## Go
 
 *   [fzxx/FileImgSwap](https://github.com/fzxx/FileImgSwap) - FileImgSwap 文图变 是一款可以把文件与 PNG 图像进行互转的工具 | FileImgSwap is a tool that enables mutual conversion between files and PNG images.
@@ -554,56 +606,6 @@
 
 *   [FongMi/TV](https://github.com/FongMi/TV) -
 
-## C++
-
-*   [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) - This is a library for the Adafruit 1.8" SPI display http://www.adafruit.com/products/358  and http://www.adafruit.com/products/618
-
-*   [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-*   [Keftos/ESP32\_MIoT](https://github.com/Keftos/ESP32_MIoT) - esp32接入米家，控制LED，智能家居 改造
-
-*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
-
-*   [worawit/blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
-
-*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-
-*   [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
-
-*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-
-## Vue
-
-*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
-
-*   [pzx521521/parap-tool](https://github.com/pzx521521/parap-tool) -
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam) - 在线考试系统，springboot+vue前后端分离的一个项目.
-
-*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
-
-*   [airene/vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - a vitepress theme for blog, demo ↓
-
-*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
-
-*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
-
-*   [kingwrcy/discussion](https://github.com/kingwrcy/discussion) - 极简论坛
-
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
 ## Kotlin
 
 *   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
@@ -643,8 +645,6 @@
 *   [duolabmeng6/ollama\_ui](https://github.com/duolabmeng6/ollama_ui) - This is a simple ollama admin panel that implements a list of models to download models and a dialog function.
 
 *   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
-
-*   [freedom-wy/js-reverse](https://github.com/freedom-wy/js-reverse) - JS逆向研究
 
 ## PLpgSQL
 
